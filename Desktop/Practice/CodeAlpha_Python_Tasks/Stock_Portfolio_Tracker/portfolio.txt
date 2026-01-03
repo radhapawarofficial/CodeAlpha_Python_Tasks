@@ -1,9 +1,0 @@
-Stock Portfolio Summary
-------------------------------
-AMZN - Quantity: 5, Price: $130
-TSLA - Quantity: 10, Price: $250
-GOOGL - Quantity: 20, Price: $140
-MSFT - Quantity: 50, Price: $320
-AAPL - Quantity: 40, Price: $180
-
-Total Investment: $29150
